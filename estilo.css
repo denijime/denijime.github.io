@@ -1,6 +1,6 @@
 p
 {
-font-size: 60px;
+font-size: 18px;
 }
 
 #frase {font-size: 18px; background-color: rgb(169, 255, 10) ;
@@ -8,4 +8,8 @@ font-size: 60px;
  h1  {
 font: bold 36px verdana; 
 text-shadow: rgb(0,0,150) 3px 3px 5px;
+ }
+ i{
+     font-size: 48px;
+
  }
